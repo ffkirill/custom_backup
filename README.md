@@ -13,6 +13,6 @@ Backup is made by 2 ways:<br/>
 
 Database drivers supported: postgres_psycopg2, mysql, sqlite3.
 
-It is also possible to include external databeses and directories in backup, look into local app's settings.py:
-APPEND_DATABASES - syntax is same as Django settings.DATABASES
+It is also possible to include external databeses and directories in backup, look into local app's settings.py:<br/>
+APPEND_DATABASES - syntax is same as Django settings.DATABASES<br/>
 APPEND_DIRS
